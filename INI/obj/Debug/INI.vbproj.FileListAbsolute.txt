@@ -1,0 +1,9 @@
+C:\Users\admin\source\repos\ExamCountDown\INI\bin\Debug\INI.dll
+C:\Users\admin\source\repos\ExamCountDown\INI\bin\Debug\INI.pdb
+C:\Users\admin\source\repos\ExamCountDown\INI\bin\Debug\INI.xml
+C:\Users\admin\source\repos\ExamCountDown\INI\obj\Debug\INI.Resources.resources
+C:\Users\admin\source\repos\ExamCountDown\INI\obj\Debug\INI.vbproj.GenerateResource.cache
+C:\Users\admin\source\repos\ExamCountDown\INI\obj\Debug\INI.vbproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\ExamCountDown\INI\obj\Debug\INI.dll
+C:\Users\admin\source\repos\ExamCountDown\INI\obj\Debug\INI.xml
+C:\Users\admin\source\repos\ExamCountDown\INI\obj\Debug\INI.pdb

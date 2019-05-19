@@ -1,0 +1,79 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+INI
+</name>
+</assembly>
+<members>
+<member name="T:INI.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:INI.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:INI.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:INI.INIException">
+ <summary>
+ 提供INI Class错误
+ </summary>
+</member>
+<member name="M:INI.INIException.GetErrorExplain(System.Byte)">
+ <summary>
+ 用指定的错误号查询错误的信息。
+ </summary>
+ <param name="ErrorCode">错误号</param>
+ <returns>错误描述</returns>
+</member>
+<member name="P:INI.INIException.ErrorCode">
+ <summary>
+ 返回出现的错误号
+ </summary>
+ <returns>出现的错误号</returns>
+</member>
+<member name="P:INI.INIException.ErrorPosition">
+ <summary>
+ 返回出现的错误的位置
+ </summary>
+ <returns>出现错误的位置</returns>
+</member>
+<member name="P:INI.INIException.ErrorExplain">
+ <summary>
+ 泛海错误的解释
+ </summary>
+ <returns>错误的解释</returns>
+</member>
+<member name="M:INI.INI.#ctor(System.String)">
+ <summary>
+ 加载INI文件
+ </summary>
+ <param name="INIText">INI文件内容</param>
+</member>
+<member name="M:INI.INI.#ctor">
+ <summary>
+ 建立一个空INI类
+ </summary>
+</member>
+<member name="M:INI.INI.#ctor(System.IO.StreamReader)">
+ <summary>
+ 加载INI文件
+ </summary>
+ <param name="INIFile">文件读取</param>
+</member>
+<member name="M:INI.INI.Load(System.String)">
+ <summary>
+ 加载INI文本
+ </summary>
+ <param name="Text"></param>
+</member>
+</members>
+</doc>
